@@ -90,6 +90,9 @@ margin-left: 1.5em;
   .mb-5, .my-5 {margin-bottom: 1rem !important; } 
 } 
 @media (max-width: 767px) {
+.resume-section-content img.img-fluid.img-profile.rounded-circle.mx-auto.mb-2 {
+    display: block !important;
+}  
 h2, .h2 {font-size: 2rem;} 
 section.resume-section {padding-left: 1rem; padding-right: 1rem; padding-top: 1rem; padding-bottom: 1rem; max-width: 100rem; } 
 .navbar {padding: 1rem 1rem; } 
