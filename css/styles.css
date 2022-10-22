@@ -79,9 +79,8 @@ section.resume-section .resume-section-content1, section.resume-section .resume-
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
-.fa-ul {
-margin-left: 1.5em;
-}
+.fa-ul {margin-left: 1.5em;}
+section.resume-section ul li, section#awards ul li{margin: 12px 0px; }
 @media (max-width: 768px) {
   body section.resume-section {min-height: inherit;} 
   section.resume-section {min-height: 100vh;} 
