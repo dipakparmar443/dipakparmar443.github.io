@@ -81,6 +81,11 @@ section.resume-section .resume-section-content1, section.resume-section .resume-
 }
 .fa-ul {margin-left: 1.5em;}
 section.resume-section ul li, section#awards ul li{margin: 12px 0px; }
+div#google_translate_element {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
 @media (max-width: 768px) {
   body section.resume-section {min-height: inherit;} 
   section.resume-section {min-height: 100vh;} 
