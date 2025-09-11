@@ -6,8 +6,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-dipakparmar443-000?logo=github&logoColor=white)](https://github.com/dipakparmar443)
 [![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?logo=wordpress&logoColor=white)](https://profiles.wordpress.org/dipakparmar443/)
-[![Shopify](https://img.shields.io/badge/Shopify-Developer-7AB55C?logo=shopify&logoColor=white)]
-[![Webflow](https://img.shields.io/badge/Webflow-Designer-146EF5?logo=webflow&logoColor=white)]
+![Shopify](https://img.shields.io/badge/Shopify-Developer-7AB55C?logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-Designer-146EF5?logo=webflow&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dipakparmar443-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakparmar443/)
 [![Instagram](https://img.shields.io/badge/Instagram-@dipakparmar443-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dipakparmar443)
 
