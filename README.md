@@ -6,10 +6,25 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-dipakparmar443-000?logo=github&logoColor=white)](https://github.com/dipakparmar443)
 [![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?logo=wordpress&logoColor=white)](https://profiles.wordpress.org/dipakparmar443/)
-[![Shopify](https://img.shields.io/badge/Shopify-Developer-7AB55C?logo=shopify&logoColor=white)](https://www.shopify.com/partners)
-[![Webflow](https://img.shields.io/badge/Webflow-Designer-146EF5?logo=webflow&logoColor=white)](https://webflow.com)
+[![Shopify](https://img.shields.io/badge/Shopify-Developer-7AB55C?logo=shopify&logoColor=white)]
+[![Webflow](https://img.shields.io/badge/Webflow-Designer-146EF5?logo=webflow&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dipakparmar443-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakparmar443/)
 [![Instagram](https://img.shields.io/badge/Instagram-@dipakparmar443-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dipakparmar443)
+
+---
+
+## 🌟 About Me
+
+Hi, I’m **Dipakkumar Parmar**, a passionate **Full-Stack Web Developer** specializing in **WordPress, WooCommerce, Elementor Pro, Shopify, and custom PHP development**.  
+
+I love building digital products that **look beautiful, work seamlessly, and deliver real value**.  
+From responsive designs to scalable backend systems — I turn ideas into **user-friendly solutions**.  
+
+📍 Based in Rajkot, Gujarat, India  
+📧 Reach me at: **[dipakparmar443@gmail.com](mailto:dipakparmar443@gmail.com)**  
+📄 [Download Resume]([https://docs.google.com/document/d/11GAfevoQEQPDzufrrhFWFuHaOpi5Y3TDPa6Ww8PESVY/edit?usp=sharing](https://docs.google.com/document/d/1QOL0-Gxaj9XKEueajdev0AFQFXdqdRXTShJlI6OHMvw/edit?usp=sharing))
+
+---
 
 This repository contains the source code for my personal **portfolio website**.  
 It highlights my work as a **Freelancer, Web Developer & Designer, WordPress Expert, Elementor Pro Specialist, and Shopify Developer**.  
