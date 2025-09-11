@@ -22,7 +22,7 @@ From responsive designs to scalable backend systems — I turn ideas into **user
 
 📍 Based in Rajkot, Gujarat, India  
 📧 Reach me at: **[dipakparmar443@gmail.com](mailto:dipakparmar443@gmail.com)**  
-📄 [Download Resume]([https://docs.google.com/document/d/11GAfevoQEQPDzufrrhFWFuHaOpi5Y3TDPa6Ww8PESVY/edit?usp=sharing](https://docs.google.com/document/d/1QOL0-Gxaj9XKEueajdev0AFQFXdqdRXTShJlI6OHMvw/edit?usp=sharing))
+📄 [Download Resume](https://docs.google.com/document/d/1QOL0-Gxaj9XKEueajdev0AFQFXdqdRXTShJlI6OHMvw/edit?usp=sharing)
 
 ---
 
