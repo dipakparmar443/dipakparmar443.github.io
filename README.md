@@ -1,6 +1,6 @@
 # 💻 Dipakkumar Parmar – Portfolio Website
 
-![Portfolio Preview](assets/img/profile.webp)
+![Profile Views](https://komarev.com/ghpvc/?username=dipakparmar443&label=Profile%20Views&color=0e75b6&style=flat)
 
 This repository contains the source code for my personal **portfolio website**.  
 It highlights my work as a **Freelancer, Web Developer & Designer, WordPress Expert, Elementor Pro Specialist, and Shopify Developer**.  
